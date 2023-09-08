@@ -1,10 +1,5 @@
 # Aygul Ismayilova
-#### Java Developer / SQL Developer / IT Project Manager
-
-<!--
-**AygulIsmayilova10/AygulIsmayilova10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+#### Java Developer / SQL Developer / IT Project Manager 
 
 - 🔭 I’m currently working on IT Project Manager.
 - 🌱 I’m currently learning Java.
@@ -14,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
