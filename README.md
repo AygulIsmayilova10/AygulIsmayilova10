@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 📫 How to reach me **aygul.ismayilova10@gmail.com**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aygul-ismayilova-018547177/)**
 
 
 <p align="left">
