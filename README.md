@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aygulismayilova10&show_icons=true&locale=en" alt="aygulismayilova10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
+<h3 align="left">***My Projects***</h3>
 
