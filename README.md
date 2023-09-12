@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Aygul.</h1>
-<h2 align="center"> Currently, I work as an IT project manager.</h2>
-<h3 align="center">Java Developer || SQL Developer || IT Project Manager</h3>
+<h2 align="center">Java Developer || SQL Developer || IT Project Manager</h2>
+<h3 align="center"> Currently, I work as an IT project manager.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aygulismayilova10&label=Profile%20views&color=0e75b6&style=flat" alt="aygulismayilova10" /> </p>
 
