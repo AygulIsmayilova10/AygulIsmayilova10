@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aygul.</h1>
 <h2 align="center">Java Developer || SQL Developer || IT Project Manager</h2>
-<h3 align="center"> Currently, I work as an IT project manager. In total, I have more than 8 years of experience in the IT industry.</h3>
+<h3 align="center"> Currently, I work as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various projects I have participated in and led.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aygulismayilova10&label=Profile%20views&color=0e75b6&style=flat" alt="aygulismayilova10" /> </p>
