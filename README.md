@@ -2,7 +2,7 @@
 			  <br></br>
 			  
 <h2 align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
-<a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.
+<a href="https://github.com/AygulIsmayilova10#my-projects-as-a-developer" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.
 </h2><br></br>
 <h3 align="left"> 
 - 🔭 I’m currently working on **Water selling and payment system** <br></br>
