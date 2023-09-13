@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
 <br></br>
-<h1 style="color:DodgerBlue;">***My Projects***</h1>
+<h1 style="color:DodgerBlue;">***My Projects as a Project Manager***</h1>
             </div>
                </div>
     </div> <!-- /#title-pre-content -->
@@ -88,6 +88,7 @@ This system includes the functionality of receiving applications, approving them
 <li>List Preparing...</li>
 </ul>
 </div>
+<h1 style="color:DodgerBlue;">***My Projects as A Developer***</h1>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2">
 <h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-2-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-2-trigger" aria-controls="openberkeley-collapsible-container-2-target">Java Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
 <ul>
