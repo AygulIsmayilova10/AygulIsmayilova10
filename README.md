@@ -60,8 +60,8 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Sub Modules: 26</p></ul></ul>
  <ul><ul><p>Screens: 102</p></ul></ul>
  <ul><ul><p>Users: 400</p></ul></ul>
- <ul><ul><p>Interface: 2 (Main Organization, Branchs)</p></ul></ul>
- <ul><ul><p>Integrations: 1 for payment from Banks (3 APIs)</p></ul></ul>      
+ <ul><ul><p>Interfaces: 2 (Main Organization, Branchs)</p></ul></ul>
+ <ul><ul><p>Integrations: 1 for payment details from banks (3 APIs)</p></ul></ul>      
  <ul>The project duration was 8 months.</ul>
  <h3>Picture of Project</h3>
  <p><b><em>PS: I've replaced the module names and other names with similar close names for privacy.</em></b></p>
@@ -71,8 +71,8 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Modules: 4</p></ul></ul>
  <ul><ul><p>Sub Modules: 10</p></ul></ul>
  <ul><ul><p>Screens: 36</p></ul></ul>
- <ul><ul><p>Users: Over 1 million</p></ul></ul>
- <ul><ul><p>Interface: 2 (Internal users, External users)</p></ul></ul>
+ <ul><ul><p>Users: Over a million</p></ul></ul>
+ <ul><ul><p>Interfaces: 2 (Internal users, External users)</p></ul></ul>
  <ul><ul><p>Integrations: 1 (Between Internal and external systems)</p></ul></ul>      
  <ul>The project duration was 4 months.</ul>
  <h3>Picture of Project</h3>
@@ -83,18 +83,18 @@ This system includes the functionality of receiving applications, approving them
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
 <h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
 <ul>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
 </ul>
 </div>
 <h1 style="color:DodgerBlue;">***My Projects as A Developer***</h1>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2">
 <h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-2-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-2-trigger" aria-controls="openberkeley-collapsible-container-2-target">Java Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
 <ul>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3">
