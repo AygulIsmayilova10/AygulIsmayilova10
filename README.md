@@ -55,6 +55,7 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Interface: 3 (Main Organization, Banks, Entrepreneur)</p></ul></ul>
  <ul><ul><p>Integrations: 3 different organizations (27 APIs)</p></ul></ul>      
  <ul>The project duration was 1 year and 2 months.</ul>
+ <p align="left"> <img src="[https://komarev.com/ghpvc/?username=aygulismayilova10&label=Profile%20views&color=0e75b6&style=flat](https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS.png)" alt="aygulismayilova10" /> </p>
  
 <li>List Preparing...</li>
 <li>List Preparing...</li>
