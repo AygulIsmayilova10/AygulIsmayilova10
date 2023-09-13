@@ -7,6 +7,7 @@
 <link rel="shortcut icon" href="https://open.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_brand/favicon.ico" type="image/vnd.microsoft.icon">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="twitter:dnt" content="on">
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-393 node-type-openberkeley-content-page region-content panel-layout-radix_boxton panel-region-contentmain no-slogan site-name-normal site-name-option-one form-single-submit-processed faq-content-processed openberkeley-collapsible-processed jquery-once-1-processed radix-dropdown-processed openberkeley-theme-base-processed" style="">
 <h1 align="center">Hi, I'm Aygul.</h1>
 <h2 align="center">Java Developer || SQL Developer || IT Project Manager</h2>
 <h3 align="center"> Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
@@ -72,5 +73,5 @@
 <li>For the target content, use a div with class="openberkeley-collapsible-target"</li>
 </ul>
 </div>
-</div>
+</div></body>
 </html>
