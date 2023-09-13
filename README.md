@@ -32,4 +32,4 @@
 <a href=""/>ERP Implementation Projects</a><br></br>
 <a href=""/>Java Projects</a> <br></br>
 <a href=""/>MSSql&MySql Projects</a> <br></br>
-<h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Adding a collapsible content chunk <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
+<h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects<span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
