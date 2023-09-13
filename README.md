@@ -45,7 +45,7 @@
 <ul>
 <li>Acceptance, management and loan accounting system of entrepreneur applications
 <ul> Number of -</ul>
- <ul><p>Modules: 9</p> </ul>
+ <ul><ul><p>Modules: 9</p></ul> </ul>
         Sub Modules: 40<br></br>
         Screens: 170<br></br>
         Users: 100000<br></br>
