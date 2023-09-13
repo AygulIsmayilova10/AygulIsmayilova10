@@ -26,4 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
 <h2 style="background-color:DodgerBlue;">***My Projects***</h2>
+<a href=""/>Custom Development Projects</a>
+<a href=""/>ERP Implementation Projects</a>
+<a href=""/>Java Projects</a> 
+<a href=""/>MSSQL&MySql Projects</a> 
 
