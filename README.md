@@ -54,11 +54,11 @@ This system includes the functionality of receiving applications, approving them
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
 </ul>
-<ul><li><h3>Water Selling And Payment System</h3></li>
+<ul><li><h3>Water Selling And Payment System (WSP)</h3></li>
 <ul> Number of -</ul>
  <ul><ul><p>Modules: 9</p></ul></ul>
  <ul><ul><p>Sub Modules: 26</p></ul></ul>
- <ul><ul><p>Screens: 170</p></ul></ul>
+ <ul><ul><p>Screens: 102</p></ul></ul>
  <ul><ul><p>Users: 400</p></ul></ul>
  <ul><ul><p>Interface: 2 (Main Organization, Branchs)</p></ul></ul>
  <ul><ul><p>Integrations: 1 for payment from Banks (3 APIs)</p></ul></ul>      
@@ -67,6 +67,17 @@ This system includes the functionality of receiving applications, approving them
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p> 
  <li><h3>Registry Materials Fund Management System - RMFS</h3></li>
+ <ul> Number of -</ul>
+ <ul><ul><p>Modules: 4</p></ul></ul>
+ <ul><ul><p>Sub Modules: 10</p></ul></ul>
+ <ul><ul><p>Screens: 36</p></ul></ul>
+ <ul><ul><p>Users: Over 1 million</p></ul></ul>
+ <ul><ul><p>Interface: 2 (Internal users, External users)</p></ul></ul>
+ <ul><ul><p>Integrations: 1 (Between Internal and external systems)</p></ul></ul>      
+ <ul>The project duration was 4 months.</ul>
+ <h3>Picture of Project</h3>
+ <p>PS: I've replaced the module names with similar close names for privacy.</p>
+ <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
