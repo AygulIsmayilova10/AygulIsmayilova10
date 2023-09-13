@@ -1,4 +1,4 @@
-<h1 class="title">IT Project Manager || Java Backend Developer || SQL Developer </h1>
+<h1 class="title">IT Project Manager || IT Business Analyst </h1>
 			  <br></br>
 			  
 <h2 align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
@@ -47,7 +47,7 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Sub Modules: 40</p></ul></ul>
  <ul><ul><p>Screens: 170</p></ul></ul>
  <ul><ul><p>Users: 100000</p></ul></ul>
- <ul><ul><p>Interface: 3 (Main Organization, Banks, Entrepreneur)</p></ul></ul>
+ <ul><ul><p>Interfaces: 3 (Main Organization, Banks, Entrepreneur)</p></ul></ul>
  <ul><ul><p>Integrations: 3 different organizations (27 APIs)</p></ul></ul>      
  <ul>The project duration was 1 year and 2 months.</ul>
  <h3>Picture of Project</h3>
