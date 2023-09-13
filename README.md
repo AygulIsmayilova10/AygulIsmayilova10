@@ -41,8 +41,7 @@
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><ul>
 </ul>
 <h2>Overview</h2>
-<p>Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
-<a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.</p>
+
 <div id="openberkeley-expand-all-0" class="openberkeley-expand-all-links"><a class="openberkeley-collapsible-collapse" href="#openberkeley-expand-all-0" aria-expanded="true" style="display: none;">collapse all</a> <a class="openberkeley-collapsible-expand" href="#openberkeley-collapsible-container-0-target" aria-expanded="false" aria-controls="openberkeley-collapsible-container-0-target openberkeley-collapsible-container-1-target openberkeley-collapsible-container-2-target openberkeley-collapsible-container-3-target openberkeley-collapsible-container-4-target">expand all</a></div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (expand)</span></span></span></a></h3>
