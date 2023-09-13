@@ -18,11 +18,6 @@
 <link type="text/css" rel="stylesheet" href="https://open.berkeley.edu/sites/default/files/css/css_7a4eMJPMtJAdI_494tGuSKyxQKLfPfj5gajuj6CT4xI.css" media="all">
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" media="all">
 <link type="text/css" rel="stylesheet" href="//use.typekit.net/aeg3kye.css" media="all">
-<script type="text/javascript" src="https://open.berkeley.edu/sites/default/files/js/js_Hd6etpKbbPoyfAq8VfqNxcODrMyruSATlnzENVPPX8w.js"></script>
-<script type="text/javascript" src="https://open.berkeley.edu/sites/default/files/js/js_-XMY613WD2BTXjfxSlzZQ9Eo0bw4-h-ZZomLzclkVkU.js"></script>
-<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-37387190-1"></script>
-<script type="text/javascript" src="https://open.berkeley.edu/sites/default/files/js/js_6rgDyfGqclpbBzoK6oaPyxiPq34PIBKp6PLIhDd4D1g.js"></script>
-<script type="text/javascript" src="https://open.berkeley.edu/sites/default/files/js/js_dLmXSnakSlQtnZLfaN1SzmwinPEDYG7s4CVD6dWEOCk.js"></script>
 </head>
 <body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-393 node-type-openberkeley-content-page region-content panel-layout-radix_boxton panel-region-contentmain no-slogan site-name-normal site-name-option-one form-single-submit-processed faq-content-processed openberkeley-collapsible-processed jquery-once-1-processed radix-dropdown-processed openberkeley-theme-base-processed" style="">
 <h1 align="center">Hi, I'm Aygul.</h1>
