@@ -34,7 +34,7 @@
 <a href=""/>MSSql&MySql Projects</a> <br></br>
 
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
-<h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (expand)</span></span></span></a></h3>
+<h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
 <div class="openberkeley-collapsible-target clearfix" id="openberkeley-collapsible-container-0-target" style="display: none;">
 <p>Expand the WYSIWYG toolbar so that you see the HTML button. When you click the button, a popup will appear where you can edit the HTML of your content directly.</p>
 <p><img class="openberkeley-2px-border-padded" src="https://open.berkeley.edu/sites/default/files/styles/panopoly_image_original/public/html-button_resized.png?itok=KDhGdabP&amp;timestamp=1452824203" alt=""></p>
