@@ -52,9 +52,7 @@
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-3-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-3-trigger" aria-controls="openberkeley-collapsible-container-3-target">MSSql&MySql Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
-</div></div></div>  </div>
-
-  
+</div> 
   
 </article>
   </div>
