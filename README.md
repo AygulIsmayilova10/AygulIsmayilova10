@@ -60,6 +60,15 @@ This system includes the functionality of receiving applications, approving them
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
  
 <li><h3>Water Selling And Payment System</h3></li>
+</ul>
+<ul> Number of -</ul>
+ <ul><ul><p>Modules: 9</p></ul></ul>
+ <ul><ul><p>Sub Modules: 26</p></ul></ul>
+ <ul><ul><p>Screens: 170</p></ul></ul>
+ <ul><ul><p>Users: 400</p></ul></ul>
+ <ul><ul><p>Interface: 2 (Main Organization, Branchs)</p></ul></ul>
+ <ul><ul><p>Integrations: 1 for payment from Banks (3 APIs)</p></ul></ul>      
+ <ul>The project duration was 8 months.</ul>
  <h3>Picture of Project</h3>
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p>
