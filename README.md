@@ -25,9 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aygulismayilova10&show_icons=true&locale=en" alt="aygulismayilova10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
-<h2 style="background-color:DodgerBlue;">***My Projects***</h2><br></br>
-<a href=""/>Custom Development Projects</a><br></br>
+<h2 style="background-color:DodgerBlue;">***My Projects***</h2>
+<a href=""/>Custom Software Development Projects</a><br></br>
 <a href=""/>ERP Implementation Projects</a><br></br>
 <a href=""/>Java Projects</a> <br></br>
-<a href=""/>MSSQL&MySql Projects</a> <br></br>
+<a href=""/>MSSql&MySql Projects</a> <br></br>
 
