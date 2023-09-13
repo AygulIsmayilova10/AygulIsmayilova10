@@ -44,7 +44,7 @@
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
 <ul>
 <li><h3>Acceptance, management and loan accounting system of entrepreneur applications</h3></li>
-<ul> Project Goal: </ul>
+<ul> Project Goals: The purpose of the project was to improve the support mechanism for the development of entrepreneurship, provide loans to business subjects with guarantee and subsidize loan interest rates, and develop software for the reception and management of applications made by entrepreneurs and for keeping credit records. </ul>
 <ul> Number of -</ul>
  <ul><ul><p>Modules: 9</p></ul></ul>
  <ul><ul><p>Sub Modules: 40</p></ul></ul>
