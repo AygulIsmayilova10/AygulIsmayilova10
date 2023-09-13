@@ -28,11 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
 <h2 style="background-color:DodgerBlue;">***My Projects***</h2>
-<a href=""/>Custom Software Development Projects</a><br></br>
-<a href=""/>ERP Implementation Projects</a><br></br>
-<a href=""/>Java Projects</a> <br></br>
-<a href=""/>MSSql&MySql Projects</a> <br></br>
-
 <div class="field-item even"><ul>
 </ul>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0" aria-expanded="false">
