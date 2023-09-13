@@ -43,28 +43,34 @@
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
 <ul>
-<li>Preparing...</li>
-<li>Preparing...</li>
-<li>Preparing...</li>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
-<li>Preparing...</li>
-<li>Preparing...</li>
-<li>Preparing...</li>
+<ul>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+</ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-2-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-2-trigger" aria-controls="openberkeley-collapsible-container-2-target">Java Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
-<li>Preparing...</li>
-<li>Preparing...</li>
-<li>Preparing...</li>
+<ul>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+</ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-3-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-3-trigger" aria-controls="openberkeley-collapsible-container-3-target">MSSql&MySql Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
-<li>Preparing...</li>
-<li>Preparing...</li>
-<li>Preparing...</li>
+<ul>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+<li>List Preparing...</li>
+</ul>
 </div> 
   
 
