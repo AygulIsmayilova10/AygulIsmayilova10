@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aygulismayilova10&" alt="aygulismayilova10" /></p>
 <br></br>
-<h2 style="color:DodgerBlue;">***My Projects***</h2>
+<h1 style="color:DodgerBlue;">***My Projects***</h1>
             </div>
                </div>
     </div> <!-- /#title-pre-content -->
@@ -41,7 +41,7 @@
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><ul>
 </ul>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
-<h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
+<h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
 <ul>
 <li><h3>Entrepreneur Loans Management System (ELMS)</h3></li>
 <ul> Project Goals: The purpose of the project was to improve the support mechanism for the development of entrepreneurship, provide loans to business subjects with guarantee and subsidize loan interest rates, and develop software for the reception and management of applications made by entrepreneurs and for keeping credit records.
