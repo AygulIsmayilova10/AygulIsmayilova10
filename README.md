@@ -59,6 +59,8 @@ This system includes the functionality of receiving applications, approving them
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
  
 <li><h3>Water Selling And Payment System</h3></li>
+ <h3>Picture of Project</h3>
+ <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p>
 <li>List Preparing...</li>
 </ul>
 </div>
