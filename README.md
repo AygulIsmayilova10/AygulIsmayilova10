@@ -10,7 +10,7 @@
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
 
-
+<br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aygulismayilova10&label=Profile%20views&color=0e75b6&style=flat" alt="aygulismayilova10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aygulismayilova10" alt="aygulismayilova10" /></a> </p>
