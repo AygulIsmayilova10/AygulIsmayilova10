@@ -1,4 +1,4 @@
-              <h1 class="title">IT Project Manager || Java Backend Developer || SQL Developer </h1>
+<h1 class="title">IT Project Manager || Java Backend Developer || SQL Developer </h1>
 			  <br></br>
 			  
 <p align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
