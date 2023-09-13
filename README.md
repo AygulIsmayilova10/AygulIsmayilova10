@@ -43,7 +43,7 @@
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
 <ul>
-<li><h3>Acceptance, management and loan accounting system of entrepreneur applications</h3>
+<li><h3>Acceptance, management and loan accounting system of entrepreneur applications</h3></li>
 <ul> Project Goal: </ul>
 <ul> Number of -</ul>
  <ul><ul><p>Modules: 9</p></ul></ul>
@@ -53,7 +53,7 @@
  <ul><ul><p>Interface: 3 (Main Organization, Banks, Entrepreneur)</p></ul></ul>
  <ul><ul><p>Integrations: 3 different organizations (27 APIs)</p></ul></ul>      
  <ul>The project duration was 1 year and 2 months.</ul>
- </li>
+ 
 <li>List Preparing...</li>
 <li>List Preparing...</li>
 </ul>
