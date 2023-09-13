@@ -51,7 +51,7 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Integrations: 3 different organizations (27 APIs)</p></ul></ul>      
  <ul>The project duration was 1 year and 2 months.</ul>
  <h3>Picture of Project</h3>
- <p>PS: I've replaced the module names with similar close names for privacy.</p>
+ <p><b><em>PS: I've replaced the module names with similar close names for privacy.</em></b></p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
 </ul>
 <ul><li><h3>Water Selling And Payment System (WSP)</h3></li>
@@ -76,7 +76,7 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Integrations: 1 (Between Internal and external systems)</p></ul></ul>      
  <ul>The project duration was 4 months.</ul>
  <h3>Picture of Project</h3>
- <p>PS: I've replaced the module names with similar close names for privacy.</p>
+ <p><b><em>PS: I've replaced the module names with similar close names for privacy.</em></b></p>
  <p align="left"> <img src=""/></p>
 </ul>
 </div>
