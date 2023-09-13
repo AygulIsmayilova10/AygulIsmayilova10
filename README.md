@@ -56,10 +56,12 @@ This system includes the functionality of receiving applications, approving them
  <ul><ul><p>Integrations: 3 different organizations (27 APIs)</p></ul></ul>      
  <ul>The project duration was 1 year and 2 months.</ul>
  <h3>Picture of Project</h3>
+ <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
  
 <li><h3>Water Selling And Payment System</h3></li>
  <h3>Picture of Project</h3>
+ <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p>
 <li>List Preparing...</li>
 </ul>
