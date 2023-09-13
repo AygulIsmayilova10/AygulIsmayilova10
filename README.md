@@ -1,3 +1,12 @@
+<html lang="en" dir="ltr" class="js"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="/guides/site-builders-guide/edit-html-page/expandcollapse-content">
+<link rel="shortlink" href="/node/393">
+<link rel="shortcut icon" href="https://open.berkeley.edu/profiles/openberkeley/themes/openberkeley_theme_brand/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="twitter:dnt" content="on">
 <h1 align="center">Hi, I'm Aygul.</h1>
 <h2 align="center">Java Developer || SQL Developer || IT Project Manager</h2>
 <h3 align="center"> Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
@@ -64,3 +73,4 @@
 </ul>
 </div>
 </div>
+</html>
