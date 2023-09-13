@@ -44,14 +44,14 @@
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
 <ul>
 <li>Acceptance, management and loan accounting system of entrepreneur applications
-<li> * Number of -
+<ul> Number of -
         Modules: 9
         Sub Modules: 40
         Screens: 170
         Users: 100000
         Interface: 3 (Main Organization, Banks, Entrepreneur)
         Integrations: 3 different organizations
-The project duration was 1 year and 2 months. </li></li>
+The project duration was 1 year and 2 months. </ul></li>
 <li>List Preparing...</li>
 <li>List Preparing...</li>
 </ul>
