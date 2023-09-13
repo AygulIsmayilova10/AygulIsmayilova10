@@ -5,7 +5,7 @@
 <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.
 </h2><br></br>
 <h3 align="left"> 
-- 🔭 I’m currently working on **Payment system for water sales.** <br></br>
+- 🔭 I’m currently working on **Water selling and payment system** <br></br>
 - 🌱 I’m currently learning **Java.**<br></br>
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
@@ -58,7 +58,7 @@ This system includes the functionality of receiving applications, approving them
  <h3>Picture of Project</h3>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS.png"/></p>
  
-<li>List Preparing...</li>
+<li><h3>Water Selling And Payment System</h3></li>
 <li>List Preparing...</li>
 </ul>
 </div>
