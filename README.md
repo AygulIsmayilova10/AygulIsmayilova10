@@ -45,13 +45,13 @@
 <ul>
 <li><h3>Acceptance, management and loan accounting system of entrepreneur applications</h3>
 <ul> Number of -</ul>
- <ul><ul><p>Modules: 9</p></ul> </ul>
- <ul><ul><p>Sub Modules: 40</p></ul> </ul>
- <ul><ul><p>Screens: 170</p></ul> </ul>
- <ul><ul><p>Users: 100000</p></ul> </ul>
- <ul><ul><p>Interface: 3 (Main Organization, Banks, Entrepreneur)</p></ul> </ul>
- <ul><ul><p>Integrations: 3 different organizations</p></ul> </ul>      
- <ul> The project duration was 1 year and 2 months.</ul>
+ <ul><ul><p>Modules: 9</p></ul></ul>
+ <ul><ul><p>Sub Modules: 40</p></ul></ul>
+ <ul><ul><p>Screens: 170</p></ul></ul>
+ <ul><ul><p>Users: 100000</p></ul></ul>
+ <ul><ul><p>Interface: 3 (Main Organization, Banks, Entrepreneur)</p></ul></ul>
+ <ul><ul><p>Integrations: 3 different organizations</p></ul></ul>      
+ <ul>The project duration was 1 year and 2 months.</ul>
  </li>
 <li>List Preparing...</li>
 <li>List Preparing...</li>
