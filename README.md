@@ -77,7 +77,7 @@ This system includes the functionality of receiving applications, approving them
  <ul>The project duration was 4 months.</ul>
  <h3>Picture of Project</h3>
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
- <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
+ <p align="left"> <img src=""/></p>
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
