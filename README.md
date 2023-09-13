@@ -14,11 +14,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aygulismayilova10&label=Profile%20views&color=0e75b6&style=flat" alt="aygulismayilova10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aygulismayilova10" alt="aygulismayilova10" /></a> </p>
-
-
-
-
-
 <p align="left">
 </p>
 
@@ -72,8 +67,8 @@ This system includes the functionality of receiving applications, approving them
  <h3>Picture of Project</h3>
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p>
-<li><h3>Registry Materials Fund Management System - RMFS</h3></li>
 </ul>
+<li><h3>Registry Materials Fund Management System - RMFS</h3></li>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
