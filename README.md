@@ -35,8 +35,7 @@
 
 <div class="field-item even"><ul>
 </ul>
-<div id="openberkeley-expand-all-0" class="openberkeley-expand-all-links"><a class="openberkeley-collapsible-collapse" href="#openberkeley-expand-all-0" aria-expanded="true" style="display: none;">collapse all</a> <a class="openberkeley-collapsible-expand" href="#openberkeley-collapsible-container-0-target" aria-expanded="false" aria-controls="openberkeley-collapsible-container-0-target openberkeley-collapsible-container-1-target openberkeley-collapsible-container-2-target openberkeley-collapsible-container-3-target openberkeley-collapsible-container-4-target">expand all</a></div>
-<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
+<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0" aria-expanded="false">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
 <ul>
 <li>For the container, use a div with class="openberkeley-collapsible-container"</li>
@@ -45,7 +44,7 @@
 </ul>
 </div>
 </div>
-<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
+<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1" aria-expanded="false">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
 <ul>
 <li>For the container, use a div with class="openberkeley-collapsible-container"</li>
@@ -53,7 +52,7 @@
 <li>For the target content, use a div with class="openberkeley-collapsible-target"</li>
 </ul>
 </div>
-<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2">
+<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2" aria-expanded="false">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-2-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-2-trigger" aria-controls="openberkeley-collapsible-container-2-target">Java Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
 <ul>
 <li>For the container, use a div with class="openberkeley-collapsible-container"</li>
@@ -61,7 +60,7 @@
 <li>For the target content, use a div with class="openberkeley-collapsible-target"</li>
 </ul>
 </div>
-<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3">
+<div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3" aria-expanded="false">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-3-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-3-trigger" aria-controls="openberkeley-collapsible-container-3-target">MSSql&MySql Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"> (collapse)</span></span></span></a></h3>
 <ul>
 <li>For the container, use a div with class="openberkeley-collapsible-container"</li>
