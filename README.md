@@ -4,10 +4,10 @@
 <p align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> projects</a>   I have participated in and led.
 <a href="https://github.com/AygulIsmayilova10#my-projects" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.
 </p><br></br>
-<p align="left"> - 🔭 I’m currently working on **Payment system for water sales.** <br></br>
-
+<p align="left"> 
+- 🔭 I’m currently working on **Payment system for water sales.** <br></br>
 - 🌱 I’m currently learning **Java.**<br></br>
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible">(link is external)</span></span></a>
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
 </p>
 
 
