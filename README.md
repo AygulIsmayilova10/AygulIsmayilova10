@@ -53,9 +53,8 @@ This system includes the functionality of receiving applications, approving them
  <h3>Picture of Project</h3>
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
  <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/ELMS-Pic.png"/></p>
- 
-<li><h3>Water Selling And Payment System</h3></li>
 </ul>
+<ul><li><h3>Water Selling And Payment System</h3></li>
 <ul> Number of -</ul>
  <ul><ul><p>Modules: 9</p></ul></ul>
  <ul><ul><p>Sub Modules: 26</p></ul></ul>
@@ -66,9 +65,9 @@ This system includes the functionality of receiving applications, approving them
  <ul>The project duration was 8 months.</ul>
  <h3>Picture of Project</h3>
  <p>PS: I've replaced the module names with similar close names for privacy.</p>
- <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p>
+ <p align="left"> <img src="https://github.com/AygulIsmayilova10/AygulIsmayilova10/blob/main/assets/WSPS.png"/></p> 
+ <ul><li><h3>Registry Materials Fund Management System - RMFS</h3></li></li>
 </ul>
-<li><h3>Registry Materials Fund Management System - RMFS</h3></li>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
 <h3 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h3>
