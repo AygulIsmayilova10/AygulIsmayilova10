@@ -5,7 +5,6 @@
 <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-developer" alt="azure" width="40" height="40"/> Here</a> you can also see my projects in SQL and Java.
 </h2><br></br>
 <h3 align="left"> 
-- 🔭 I’m currently working on **Water selling and payment system** <br></br>
 - 🌱 I’m currently learning **Java.**<br></br>
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
