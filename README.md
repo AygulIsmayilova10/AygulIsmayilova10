@@ -1,8 +1,8 @@
 <h1 class="title" align="center">SQL Dveloper || Java Developer || ERP Systems Analyst</h1>
 			  <br></br>
 			  
-<h2 align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various 
-	<a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" alt="azure" width="40" height="40">projects</a>   I have participated in and led.
+<h2 align="center"> Hi, I'm Aygul. I have more than 8 years of experience in the IT industry. Below, you can find more information about the various 
+	<a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" alt="azure" width="40" height="40">projects</a>   I have developed.
 </h2>
 <br></br>
 <h3 align="left"> 
