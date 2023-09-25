@@ -1,4 +1,4 @@
-<h1 class="title" align="center">IT Project Manager || IT Business Analyst || ERP Systems Analyst</h1>
+<h1 class="title" align="center">SQL Dveloper || Java Developer || ERP Systems Analyst</h1>
 			  <br></br>
 			  
 <h2 align="center"> Hi, I'm Aygul. Currently, I'm working as an IT project manager. In total, I have more than 8 years of experience in the IT industry. Below, you can find more information about the various 
