@@ -1,4 +1,4 @@
-<h1 class="title" align="center">Systems Analyst/Developer || Java Developer || ERP Systems Analyst</h1>
+<h1 class="title" align="center">Systems Analyst/Developer || Java Developer </h1>
 			  <br></br>
 			  
 <h2 align="center"> Hi, I'm Aygul. I have more than 8 years of experience in the IT industry. Below, you can find more information about the various 
