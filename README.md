@@ -1,10 +1,6 @@
 <h1 class="title" align="center">Systems Analyst/Developer || Java Developer </h1>
 			  <br></br>
-			  
-<h2 align="center"> Hi, I'm Aygul. I have more than 8 years of experience in the IT industry. Below, you can find more information about the various 
-	<a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" alt="azure" width="40" height="40">projects</a>   I have developed.
-</h2>
-<br></br>
+
 <h3 align="left"> 
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova-018547177/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
