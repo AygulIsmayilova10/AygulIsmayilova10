@@ -94,11 +94,11 @@ This system includes the functionality of receiving applications, approving them
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-3">
-<h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-3-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-3-trigger" aria-controls="openberkeley-collapsible-container-3-target">MSSql&MySql Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
+<h2 class="openberkeley-collapsible-controller">MSSql&MySql Projects</h2>
 <ul>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
-<li>List Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
+<li>List is Preparing...</li>
 </ul>
 </div> 
   
