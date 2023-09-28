@@ -32,7 +32,7 @@
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><ul>
 </ul>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-0">
-<h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-0-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-0-trigger" aria-controls="openberkeley-collapsible-container-0-target">Custom Software Development Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
+<h2 class="openberkeley-collapsible-controller">Custom Software Development Projects</h2>
 <ul>
 <li><h3>Entrepreneur Loans Management System (ELMS)</h3></li>
 <ul> Project Goals: The purpose of the project was to improve the support mechanism for the development of entrepreneurship, provide loans to business subjects with guarantee and subsidize loan interest rates, and develop software for the reception and management of applications made by entrepreneurs and for keeping credit records.
@@ -77,7 +77,7 @@ This system includes the functionality of receiving applications, approving them
 </ul>
 </div>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-1">
-<h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-1-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-1-trigger" aria-controls="openberkeley-collapsible-container-1-target">ERP Implementation Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
+<h2 class="openberkeley-collapsible-controller">ERP Implementation Projects</h2>
 <ul>
 <li>List is Preparing...</li>
 <li>List is Preparing...</li>
@@ -86,7 +86,7 @@ This system includes the functionality of receiving applications, approving them
 </div>
 <h1 style="color:DodgerBlue;">***My Projects as A Developer***</h1>
 <div class="openberkeley-collapsible-container" id="openberkeley-collapsible-container-2">
-<h2 class="openberkeley-collapsible-controller"><a href="#openberkeley-collapsible-container-2-target" class="openberkeley-collapsible-trigger" aria-expanded="false" id="openberkeley-collapsible-container-2-trigger" aria-controls="openberkeley-collapsible-container-2-target">Java Projects <span class="openberkeley-collapsible-status"><span class="fa fa-plus"><span class="element-invisible"></span></span></span></a></h2>
+<h2 class="openberkeley-collapsible-controller">Java Projects</h2>
 <ul>
 <li>List is Preparing...</li>
 <li>List is Preparing...</li>
