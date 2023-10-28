@@ -1,4 +1,4 @@
-<h1 class="title" align="center">Systems Analyst/Developer || Java Developer </h1>
+<h1 class="title" align="center">Systems Analyst/Software Engineer || Java SE </h1>
 			  <br></br>
 
 <h3 align="left"> 
