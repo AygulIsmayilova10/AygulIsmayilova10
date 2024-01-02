@@ -6,7 +6,7 @@
 I am also very interested in programming like Java and Python. I'm professional in SQl (MySQL and MSSQL). You can get acquainted with some of the projects that I am the project manager of <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" rel="noreferrer" data-extlink="">below.<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
 <h3 align="left"> 
-- Here is my <a href="https://www.hackerrank.com/profile/aygul_ismayilova" rel="noreferrer" data-extlink="">Hackerank<span class="ext"><span class="element-invisible"></span></span></a> account. 
+- Here is my <a href="https://www.hackerrank.com/profile/aygul_ismayilova" rel="noreferrer" data-extlink="">HackerRank<span class="ext"><span class="element-invisible"></span></span></a> account. 
 </h3>
 
 <br></br>
