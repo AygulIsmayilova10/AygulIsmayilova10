@@ -1,4 +1,4 @@
-<h1 class="title" align="center">Hi, I'm Aygul. I'm an IT Business Analyst. I am also very interested in programming -like Java and Python. I'm professional in SQl (MySQL and MSSQL). You can get acquainted with some of the projects that I am the project manager of <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" rel="noreferrer" data-extlink="">below<span class="ext"><span class="element-invisible"></span></span></a> </h1>
+<h1 class="title" align="center">Hi, I'm Aygul. I'm an IT Business Analyst. </h1>
 			  <br></br>
 
 <h3 align="left"> 
