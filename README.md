@@ -2,8 +2,8 @@
 			  <br></br>
 
 <h3 align="left"> 
-- 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova/" rel="noreferrer" data-extlink="">LinkedIn<span class="ext"><span class="element-invisible"></span></span></a>
-I am also very interested in programming -like Java and Python. I'm professional in SQl (MySQL and MSSQL). You can get acquainted with some of the projects that I am the project manager of <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" rel="noreferrer" data-extlink="">below<span class="ext"><span class="element-invisible"></span></span></a>
+- 📫 You can reach me on <a href="https://www.linkedin.com/in/aygul-ismayilova/" rel="noreferrer" data-extlink="">LinkedIn. <span class="ext"><span class="element-invisible"></span></span></a>
+I am also very interested in programming like Java and Python. I'm professional in SQl (MySQL and MSSQL). You can get acquainted with some of the projects that I am the project manager of <a href="https://github.com/AygulIsmayilova10#my-projects-as-a-project-manager" rel="noreferrer" data-extlink="">below<span class="ext"><span class="element-invisible"></span></span></a>
 </h3>
 
 <br></br>
